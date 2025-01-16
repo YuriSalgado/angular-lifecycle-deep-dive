@@ -1,6 +1,6 @@
 # lifecycle-deep-dive-project
 
-A component to demonstrate the Angular component lifecycle Hooks
+A component to demonstrate the Angular component lifecycle Hooks (ngOnChanges, ngOnInit, ngDoCheck, ngOnDestroy and others ngAfter\*)
 
 ## Installation
 
@@ -26,5 +26,5 @@ npm start
 [MIT](https://choosealicense.com/licenses/mit/)
 
 <p align="center">
-  <img src="https://i.imgur.com/xyK4f0b.png" alt="Practice - calculator - app"/>
+  <img src="https://i.imgur.com/xyK4f0b.png" alt="Practice - lifecycle hooks"/>
 </p>
